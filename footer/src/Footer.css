@@ -1,0 +1,24 @@
+.row py-5 text-white {
+              display: flex;
+}
+
+.bg-dark {
+              background-color: black;
+              margin-top: 25.6rem;
+              color: white;
+              position: fixed;
+}
+
+.col {
+              display: inline-block;
+              margin: 1rem;
+}
+
+.fo {
+              color: white;
+              margin-right: 100rem;
+              font-weight: 700;
+              font-style: oblique;
+              font-size: 4rem;
+              color: blanchedalmond;
+}
